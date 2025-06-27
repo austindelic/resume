@@ -13,7 +13,18 @@
         "isDefault": true
       },
       "problemMatcher": []
+    },{
+      "label": "Build CV",
+      "type": "shell",
+      "command": "xelatex",
+      "args": [
+        "cv.tex"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
     }
   ]
-
 }
