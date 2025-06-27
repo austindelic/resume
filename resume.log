@@ -1,0 +1,19 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.6.27)  27 JUN 2025 11:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./resume.tex
+(resume.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(awesome-cv.cls
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 .
+     ./awesome-cv.cls
+? 

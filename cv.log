@@ -1,0 +1,20 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.6.27)  27 JUN 2025 11:35
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cv.tsx
+(cv.tex
+! Interruption.
+<to be read again> 
+                   \immediate 
+l.1 
+    %!TEX TS-program = xelatex
+? ssing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 .
+     ./awesome-cv.cls
+? 
