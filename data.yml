@@ -1,0 +1,177 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
+
+personal:
+  name: Austin Scott Delicpoop
+  email: austin@austindelic.com
+  phone: (+61) 402 919 111
+  url: https://austindelic.com
+  titles:
+    - Software Engineer
+    - Student
+  location:
+    city: Perth
+    country: ""
+    region: Western Australia
+  profiles:
+    - network: LinkedIn
+      username: austindelic
+      url: https://linkedin.com/in/austindelic
+    - network: GitHub
+      username: austindelic
+      url: https://github.com/austindelic
+
+work:
+  - organization: Aquinas College WA
+    url: https://www.aquinas.wa.edu.au
+    location: Perth, Western Australia
+    positions:
+      - position: Casual ICT Helpdesk & AV Assistant
+        startDate: 2025-03-01
+        endDate: present
+        highlights:
+          - Provided ICT and audiovisual support to staff and students.
+          - Assisted with troubleshooting hardware, software, and AV systems.
+          - Supported day-to-day technology operations across the campus.
+
+  - organization: Lightbulb Skills
+    url: https://www.lightbulbskills.com.au
+    location: Perth, Western Australia
+    positions:
+      - position: Junior Software Developer
+        startDate: 2024-10-01
+        endDate: present
+        highlights:
+          - Developed and maintained a full-stack CRM system using Next.js, React, and Supabase.
+          - Streamlined customer relationship management processes for the organisation.
+          - Applied modern web development practices to support a community-focused business.
+  - organization: Global College Australasia
+    url: https://globalcollege.edu.au
+    location: Perth, Western Australia
+    positions:
+      - position: Information Technology Intern
+        startDate: 2023-12-01
+        endDate: 2024-04-01
+        highlights:
+          - Provided IT helpdesk support to staff and students.
+          - Troubleshot hardware and software issues across multiple systems.
+          - Assisted with device management, system setup, and software updates.
+          - Strengthened communication skills by supporting users with varied technical ability.
+          - Gained practical experience in IT support processes and system diagnostics.
+
+education:
+  - institution: Curtin University
+    url: https://www.curtin.edu.au
+    area: Computer Science & Mechatronics Engineering
+    studyType: Bachelor of Science & Engineering
+    startDate: 2025-02-01
+    endDate: 2030-10-01
+    location: Perth, Western Australia
+    honors:
+      - 7.5 / 10 GPA
+      - Dean's List
+    courses:
+    highlights:
+
+  - institution: Aquinas College
+    url: https://www.aquinas.wa.edu.au
+    studyType: "Diploma"
+    startDate: 2016-02-01
+    endDate: 2024-10-01
+    location: Perth, Western Australia
+    honors:
+      - 89.5 ATAR
+      - Dean's List
+    highlights:
+      - rowing 7 years
+      - valadictory sepeech
+
+affiliations:
+  - organization: Curtin Computer Science Students Association (ComSSA)
+    location: Perth, Western Australia, Australia
+    position: Sub-Committee Member
+    startDate: 2025-03-01
+    endDate: 2025-09-01
+    highlights:
+      - Primarily contributed to the Tech Team.
+      - Assisted with technical initiatives and supported event activities.
+
+awards:
+  - title: Most Innovative Award
+    date: 2024-12-01
+    issuer: Curtin University/ComSSA Hackathon
+    location: Perth, Western Australia
+
+  - title: Charlie Bell Scholarship
+    date: 2024-12-01
+    issuer: Ronald McDonald House Charities WA
+    location: Perth, Western Australia
+
+  - title: Technical Resources Scholarship
+    date: 2024-12-01
+    issuer: Technical Recources Pty Ltd
+    location: Perth, Western Australia
+
+  - title: Year 12 Computer Science ATAR Award
+    date: 2024-10-01
+    issuer: Aquinas College WA
+    location: Perth, Western Australia
+
+  - title: Year 11 Computer Science ATAR Award
+    date: 2023-10-01
+    issuer: Aquinas College WA
+    location: Perth, Western Australia
+
+# projects:
+#   - name: "Job Tailor"
+#     url: https://example.com/
+#     affiliation: Open University
+#     startDate: 2020-11-01
+#     endDate: 2021-04-30
+#     highlights:
+#       - Developed an AI-powered résumé editor app to create tailored résumés from users' CVs based on specific job descriptions.
+#       - Acquired more than 100,000 user sign ups in 3 months and more than 10,000 active monthly users.
+#       - Generated profit of upwards \$20,000 yearly with a team of only four developers and three business operatives
+
+skills:
+  - category: Soft Skills
+    skills:
+      - Public Speaking
+      - Communication
+      - Critical Thinking
+      - Leadership
+  - category: Programming
+    skills:
+      - Rust
+      - Python
+      - React
+      - TypeScript
+      - Bash
+  - category: Web Development
+    skills:
+      - Svelte & SvelteKit
+      - React
+      - Next.js
+      - Tailwind CSS
+      - Astro
+  - category: Infrastructure
+    skills:
+      - PostgreSQL
+      - Drizzle ORM
+      - Docker
+      - Nginx
+      - GraphQL
+
+languages:
+
+interests:
+
+references:
+  - name: Megan Hancock
+    email: megan@lightbulbskills.com.au
+    phone: "(+61) 404 511 662"
+    reference: Austin was a highly capable and reliable student with strong initiative.
+
+  - name: Brodie Smith
+    email: brodie@tiawa.com.au
+    phone: "(+61) 406 990 993"
+    reference: Demonstrated strong problem-solving skills and professionalism in a fast-paced environment.
